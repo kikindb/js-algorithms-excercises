@@ -1,0 +1,11 @@
+{
+  "name": "algoexcercises",
+  "version": "1.0.0",
+  "description": "Algorithms excercises just to practice",
+  "main": "e.js",
+  "scripts": {
+    "test": "jest --verbose --watchAll --coverage"
+  },
+  "author": "Enrique Dick",
+  "license": "ISC"
+}
